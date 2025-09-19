@@ -1,0 +1,28 @@
+# Build artifacts
+sample_program_v1
+sample_program_v2
+sample_program_v3
+*.o
+*.so
+*.a
+
+# Generated analysis files
+*.hex
+*.asm
+*_strings.txt
+
+# Temporary files
+/tmp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS specific files
+.DS_Store
+Thumbs.db
